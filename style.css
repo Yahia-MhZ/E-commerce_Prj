@@ -1,0 +1,13 @@
+
+
+body {
+    padding-top: 56px; /* Adjusted for fixed navbar */
+}
+
+.card {
+    transition: transform 0.3s; /* Adding a smooth hover effect */
+}
+
+.card:hover {
+    transform: scale(1.05); /* Increasing size on hover */
+}
